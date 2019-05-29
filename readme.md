@@ -1,5 +1,7 @@
 # Guide of ILISA Server
 
+此文档介绍电子科技大学智能学习科学与应用研究所 （Intelligence Learning Institute of Science and Application，ILISA）服务器的使用方法和相关信息。
+
 ## 目录
 
 1. [远程登录](contents/远程登录.md)
