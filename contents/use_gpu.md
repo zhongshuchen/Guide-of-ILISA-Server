@@ -4,7 +4,7 @@
 
 ## CUDA 和  cuDNN
 
-CUDA 是英伟达（NVIDIA）公司推出的并行计算平台，通过其提供的 API，开发者可以在软件层面访问 NVIDA 的显卡并使用其虚拟指令集（virtual instruction set）和并行计算单元。目前主流的深度学习框架如 Tenserflow、PyTorch、Caffe2 等都封装了 CUDA 的 API 接口。
+CUDA 是英伟达（NVIDIA）公司推出的并行计算平台，通过其提供的 API，开发者可以在软件层面访问 NVIDA GPU 并使用其虚拟指令集（virtual instruction set）和并行计算单元。目前主流的深度学习框架如 Tenserflow、PyTorch、Caffe2 等都封装了 CUDA 的 API 接口。
 
 CUDA Deep Neural Network library （cuDNN）是基于 CUDA 的深度学习库，它提供了深度学习基本数学方法的 GPU 加速底层实现，如前向后向卷积、池化、标准化、激活函数等。
 
