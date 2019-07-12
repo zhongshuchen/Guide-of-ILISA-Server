@@ -12,7 +12,7 @@
 
 ## 在 Sublime Text 3 上使用 SFTP
 
-使用 Package Control 安装 SFTP 后，在左侧 Sidebar 的工程目录右键单击，可找到 STP -> Map to Remote 选项，单机后，插件将在工程目录创建配置文件，用户需要完成以下的配置：
+使用 Package Control 安装 SFTP 后，在左侧 Sidebar 的工程目录右键单击，可找到 STP -> Map to Remote 选项，单击后，插件将在工程目录创建配置文件，用户需要完成以下的配置：
 
 ``` json
 "host": "192.168.1.123", // ILISA 服务器地址
