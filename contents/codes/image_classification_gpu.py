@@ -5,7 +5,7 @@
 import torch
 import torch.nn as nn
 import torchvision
-
+ 
 from torch.utils.data import DataLoader
 from torch.autograd import Variable
 from torchvision.datasets import MNIST
