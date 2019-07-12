@@ -20,7 +20,7 @@ conda install numpy
 
 
 
-## ILISA 的 Anaconda 默认环境
+## ILISA 服务器上的 Anaconda 默认环境
 
 | Python 版本  | 更新时间 |
 | ------------ | ----- |
