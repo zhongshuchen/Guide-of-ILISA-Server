@@ -32,7 +32,7 @@ ILISA 服务器上已经安装了 CUDA 和 cuDNN：
 
 ## 示例程序
 
-这是一份在 PyTorch 上实现的用 MNIST 数据集训练 LeNet 卷积神经网络的程序，包含了未使用 GPU 加速的版本和使用 GPU 加速的版本。在 ILISA 服务器上完成 10 次训练迭代，不使用 GPU 加速需约 10 分钟，而使用 GPU 加速后仅需约 20 秒。
+这是一份在 PyTorch 上实现的用 MNIST 数据集训练 LeNet 卷积神经网络的程序，包含了未使用 GPU 加速的版本和使用 GPU 加速的版本。在 ILISA 服务器上完成 10 轮训练，不使用 GPU 加速需约 10 分钟，而使用 GPU 加速后仅需约 20 秒。
 
 * [image_classification.py](./codes/image_classification.py)
 * [image_classification_gpu.py](./codes/image_classification_gpu.py)
