@@ -18,15 +18,15 @@ ILISA 服务器上已经安装了 CUDA 和 cuDNN：
 
 ## 在 Tensorflow 上使用  CUDA
 
-* Tensorflow Docs：GPU support [](https://www.tensorflow.org/install/gpu)
-* Tensorflow 官方文档：GPU支持 [](https://www.tensorflow.org/install/gpu?hl=zh_cn)
+* [Tensorflow Docs：GPU support](https://www.tensorflow.org/install/gpu)
+* [Tensorflow 官方文档：GPU支持 ](https://www.tensorflow.org/install/gpu?hl=zh_cn)
 
 
 
 ## 在 PyTorch 使用  CUDA
 
-* PyTorch Docs：CUDA semantics [](https://pytorch.org/docs/stable/notes/cuda.html)
-* PyTorch 中文文档：CUDA 语义 [](https://pytorch-cn.readthedocs.io/zh/latest/notes/cuda/)
+* [PyTorch Docs：CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html)
+* [PyTorch 中文文档：CUDA 语义](https://pytorch-cn.readthedocs.io/zh/latest/notes/cuda/)
 
 
 

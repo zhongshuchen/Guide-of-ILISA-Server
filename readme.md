@@ -4,21 +4,22 @@
 
 ## 基本使用
 
-1. [远程登录 / Remote login](./contents/远程登录.md)（19/05/30 更新）
+* [远程登录 / Remote login](./contents/远程登录.md)（19/05/30 更新）
 
-2. [文件传输服务 / File transfer](./contents/文件传输服务.md) （19/05/30 更新）
+* [文件传输服务 / File transfer](./contents/文件传输服务.md) （19/05/30 更新）
 
-3. [运行程序 / Run programs](./contents/运行程序.md) （19/05/31 更新）
+* [运行程序 / Run programs](./contents/运行程序.md) （19/05/31 更新）
 
-4. [图形界面转发 / User interface forwarding](./contents/图形界面转发.md) （19/05/31 更新）
+* [图形界面转发 / User interface forwarding](./contents/图形界面转发.md) （19/05/31 更新）
 
-6. 服务器安全 / Security（编辑中）
-
-   
+* 服务器安全 / Security（编辑中）
+  
 
 ## 代码和程序
 
-6. 使用 Anaconda 中的 Python 环境 / Use Python on Anaconda（编辑中）
-7. 在编辑器或 IDE 上同步服务器文件 / Sync remote files to editor or IDE （编辑中)
-8. [使用图形硬件加速神经网络 / Build Nerual Network via GPU](./contents/use_gpu.md)（19/07/12 更新)
+* 使用 Anaconda 中的 Python 环境 / Use Python on Anaconda（编辑中）
+
+* 在编辑器或 IDE 上同步服务器文件 / Sync remote files to editor or IDE （编辑中)
+
+* 使用图形硬件加速神经网络 / Build Nerual Network via GPU](./contents/use_gpu.md)（19/07/12 更新)
 
