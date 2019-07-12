@@ -21,5 +21,5 @@
 
 * 在编辑器或 IDE 上同步服务器文件 / Sync remote files to editor or IDE （编辑中)
 
-* 使用图形硬件加速神经网络 / Build Nerual Network via GPU](./contents/use_gpu.md)（19/07/12 更新)
+* [使用图形硬件加速神经网络 / Build Nerual Network via GPU](./contents/use_gpu.md)（19/07/12 更新)
 

@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# @Author: Zhongshu Chen
+# @Date:   2019-07-08
+
 import torch
 import torch.nn as nn
 import torchvision
