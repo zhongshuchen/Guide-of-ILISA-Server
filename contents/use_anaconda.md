@@ -28,15 +28,17 @@ conda install numpy
 
 默认环境已安装了以下常用包（截至 19/07/12）：
 
-| 包名           | 模块名     | 版本   | 描述                    |
-| -------------- | ---------- | ------ | ----------------------- |
-| NumPy          | numpy      | 1.16.2 | 数组和矩阵计算库        |
-| SciPy          | scipy      | 1.2.1  | 科学计算库和数学工具包  |
-| scikit-learn   | sklearn    | 0.20.3 | 基于 SciPy 的机器学习库 |
-| Pandas         | pandas     | 0.24.2 | 数据操作和数据分析      |
-| TensorFlow GPU | tensorflow | 1.13.1 | 深度学习库              |
-| PyTorch        | torch      | 1.1.0  | 深度学习库              |
-| Keras          | keras      | 2.2.4  | 深度学习库              |
+| 包名            | 模块名     | 版本   | 描述                    |
+| --------------- | ---------- | ------ | ----------------------- |
+| NumPy           | numpy      | 1.16.2 | 数组和矩阵计算库        |
+| SciPy           | scipy      | 1.2.1  | 科学计算库和数学工具包  |
+| scikit-learn    | sklearn    | 0.20.3 | 基于 SciPy 的机器学习库 |
+| Pandas          | pandas     | 0.24.2 | 数据操作和数据分析      |
+| TensorFlow GPU  | tensorflow | 1.13.1 | 深度学习库              |
+| PyTorch         | torch      | 1.1.0  | 深度学习库              |
+| Keras           | keras      | 2.2.4  | 深度学习库              |
+| Pillow          | PIL        | 5.4.1  | 图像处理库              |
+| OpenCV - python | cv2        |        |                         |
 
 
 
