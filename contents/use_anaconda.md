@@ -1,11 +1,25 @@
 # 使用 Anaconda 中的 Python 环境 
 
 ## 注意事项（2019年8月28日）
-> 为了方便用户根据需求定制工作环境、减少环境运行冲突、优化资源管理，安装于服务器上的全局 Anaconda3 已被卸载，请用户在个人目录下安装 Anaconda3 并按需搭建环境。
+为了方便用户根据需求定制工作环境、减少环境运行冲突、优化资源管理，安装于服务器上的全局 Anaconda3 已被卸载，请用户在个人目录下安装 Anaconda3 并按需搭建环境。
 
-> 已为用户提供本地安装包，安装包路径： /home/public/tools/Anaconda3-2019.03-Linux-x86_64.sh
+### 安装
+已为用户提供本地安装包，安装包路径：
+> /home/public/tools/Anaconda3-2019.03-Linux-x86_64.sh
 
-> 使用 cp 命令拷贝到个人目录后直接运行安装即可
+使用 cp 命令拷贝到个人目录后直接运行安装即可
+
+### 将 conda 命令添加至环境变量
+在用户目录新建文件 .bashsrc，写入内容：
+``` bash
+#!/bin/bash
+export PATH=/home/czs/anaconda3/bin:$PATH
+```
+保存后运行命令：
+``` bash
+source .bashsrc
+```
+即可使用 conda 命令。
 
 ## Anaconda
 
