@@ -15,7 +15,7 @@
 
 ## 进行实验
 
-* [使用 Anaconda 中的 Python 环境 / Use Python on Anaconda](./contents/use_anaconda.md)（19/07/12 更新）
+* [使用 Anaconda 中的 Python 环境 / Use Python on Anaconda](./contents/use_anaconda.md)（19/08/28 更新）
 
 * [在代码编辑器上同步服务器文件 / Sync remote files to editors](./contents/sync_files.md) （19/07/12 更新）
 
