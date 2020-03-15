@@ -6,7 +6,7 @@
 
 * [远程登录 / Remote login](./contents/远程登录.md)（19/05/30 更新）
 
-* [文件传输服务 / File transfer Service](./contents/文件传输服务.md) （19/05/30 更新）
+* [文件传输服务 / File transfer service](./contents/文件传输服务.md) （19/05/30 更新）
 
 * [运行程序 / Run programs](./contents/运行程序.md) （19/05/31 更新）
 
@@ -28,3 +28,6 @@
 
 * [服务器安全 / Security](./contents/security.md)（19/07/12 更新）
 
+## 附录
+
+* 租用在线 GPU 服务器 / Rent a online GPU server
