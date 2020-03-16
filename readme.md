@@ -30,4 +30,4 @@
 
 ## 附录
 
-* [租用在线 GPU 服务器 / Rent online GPU servers](./contents/rent_online_gpu.md) (20/03/15 更新)
+* [租用在线 GPU 服务器 / Rent online GPU servers](./contents/rent_online_gpu.md) （20/03/15 更新）
